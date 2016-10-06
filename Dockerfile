@@ -1,4 +1,4 @@
-FROM safronov/docker-chromedriver:node4
+FROM safronov/docker-chromedriver-java:node4
 
 ENV npm_config_loglevel error
 ENV npm_config_depth 0
